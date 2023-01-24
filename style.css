@@ -1,0 +1,398 @@
+@media (max-width: 1680px) {
+  body {
+    background-color: rgb(24, 24, 24);
+    color: black;
+  }
+
+  .navContainer {
+    background-color: rgb(24, 24, 24);
+    border: solid #333C3F;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* position: fixed; */
+  }
+
+  .left {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .mid {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .right {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .nlTab1 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://www.mhpcolorado.org/wp-content/uploads/2021/02/TS-FB-Icon.png); 
+    background-size: cover;
+  }
+  .nlTab2 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/3917/3917754.png); 
+    background-size: cover;
+  }
+
+  .nlTab3 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(); 
+    background-size: cover;
+  }
+
+  .nlTab4 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://www.seekpng.com/png/detail/339-3392184_home-icons-blue-home-icon-blue-png.png); 
+    background-size: cover;
+  }
+
+  .nlTab5 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://cdn.iconscout.com/icon/free/png-256/facebook-watch-6745621-5575200.png); 
+    background-size: cover;
+  }
+
+  .nlTab6 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXwyQSlWMJlpKGkPYOnN2Jm7zaMPTXp1SfKXcdK0&s); 
+    background-size: cover;
+  }
+  .nlTab7 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://www.seekpng.com/png/detail/44-443227_facebook-group-facebook-group-icon-png.png); 
+    background-size: cover;
+  }
+  .nlTab8 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://w7.pngwing.com/pngs/841/417/png-transparent-computer-icons-hamburger-button-symbol-facebook-inc-symbol-miscellaneous-text-rectangle.png); 
+    background-size: cover;
+  }
+
+  .nlTab9 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://logos-world.net/wp-content/uploads/2021/02/Facebook-Messenger-Logo-2018-2020.png); 
+    background-size: cover;
+  }
+
+  .nlTab10 {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://www.shutterstock.com/image-vector/notification-bell-icon-incoming-message-260nw-1404958907.jpg); 
+    background-size: cover;
+  }
+
+  .mainContainer {
+    border: solid #333C3F;
+    height: 600vh;
+    display: flex;
+    justify-content: space-evenly;
+    border-width: .2px;
+  }
+
+  .leftBar {
+    border: solid #333C3F;
+    border-width: .2px;
+    width: 20%;
+    display: block;
+  }
+
+  .mainScrollContainer {
+    border: solid black;
+    border-width: .2px;
+    width: 60%;
+    display: block;
+  }
+
+  .rightBar {
+    border: solid #333C3F;
+    border-width: .2px;
+    width: 20%;
+    display: block;
+  }
+
+}
+
+/*------- Desktop-------------------------- */
+@media (max-width: 1280px) {
+  body {
+    background-color: black;
+    color: salmon;
+
+  }
+
+  .navContainer {
+    background-color: black;
+    border: solid #333C3F;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+        /* position: fixed; */
+  }
+
+  .left {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .mid {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .right {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .nlTab {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://www.mhpcolorado.org/wp-content/uploads/2021/02/TS-FB-Icon.png);
+    background-size: cover;
+   
+
+  }
+
+  .mainContainer {
+    border: solid black;
+    height: 600vh;
+    display: flex;
+    justify-content: space-evenly;
+    border-width: .2px;
+  }
+
+  .leftBar {
+    border: solid #333C3F;
+    border-width: .2px;
+    width: 0%;
+    display: none;
+  }
+
+  .mainScrollContainer {
+    border: solid #333C3F;
+    border-width: .2px;
+    width: 70%;
+    display: block;
+  }
+
+  .rightBar {
+    border: solid #333C3F;
+    border-width: .2px;
+    width: 30%;
+    display: block;
+  }
+
+}
+
+/* -------------Ipad----------------------- */
+@media (max-width: 680px) {
+  body {
+    background-color: black;
+    color: white;
+
+  }
+
+  .navContainer {
+    background-color: black;
+    border: solid #333C3F;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* position: fixed; */
+  }
+
+  .left {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .mid {
+    width: 40%;
+    display: none;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .right {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+
+  .nlTab {
+    border: solid red;
+    border-width: .2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(https://www.mhpcolorado.org/wp-content/uploads/2021/02/TS-FB-Icon.png);
+    background-size: cover;
+   
+
+  }
+
+  .mainContainer {
+    border: solid #333C3F;
+    height: 600vh;
+    display: flex;
+    justify-content: space-evenly;
+    border-width: .2px;
+  }
+
+  .leftBar {
+    /* border: solid white; */
+    border-width: .2px;
+    width: 0%;
+    display: none;
+  }
+
+  .mainScrollContainer {
+    padding-top:3vh;
+    border: solid black;
+    border-width: .2px;
+    width: 100%;
+    display: block;
+  }
+
+  .rightBar {
+    border: solid black;
+    border-width: .2px;
+    width: 0%;
+    display: none;
+  }
+
+}
+
+
+/* -----------Mobile ----------------------*/
+
+/* --------------------------------------- */
+.categoryContainer {
+  height: 40px;
+  width: 60px;
+  margin-top: 10%;
+   color: white;
+}
+
+.icon {
+  background-size: cover;
+  padding-bottom: 10px;
+
+  
+}
+.postContainer{
+  border:solid white;
+  border-width:.2px;
+  margin-bottom:12vh;
+ 
+  
+  /* height:61vh; */
+  
+}
+.postMain{
+  border:solid #333C3F;
+  border-width:.2px;
+  height:600px;
+  background-image: url(assets/advert1.PNG);
+  background-size: cover;
+  
+}
+.btnContainer{
+  /* border:solid #333C3F; */
+  display:flex;
+  justify-content: space-evenly;
+  margin-top:8vh;
+}
+.btn{
+  border:solid white;
+  border-width:.2px;
+  width:23%;
+  height:25px;
+  background-color:#333C3F;
+  text-align:center;
+  color:antiquewhite
+}
+.catcher{
+  display:flex;
+  justify-content: space-between;
+  font-size:12px;
+  margin:2em;
+  text-align:center;
+  color: antiquewhite;
+
+}
+.commentContainer{
+  border:solid lightblue;
+  border-width:.2px;
+  /* height:8vh; */
+  margin-top:22px;
+}
+.postHeader{
+  background-color:#333C3F;
+  height:6vh;
+}
